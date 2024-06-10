@@ -1,1 +1,9 @@
+This repository contains various files, including HTML, CSS, and Python scripts, which together form a text summarizer application. This app generates relevant summaries of the provided text.
 
+For the project, I imported various libraries, stopwords, and punctuation for training the model. Additionally, I calculated word frequencies, normalized, and tokenized the text.
+
+I created the HTML files (index and summary) and used a jumbotron to display key content.
+
+For the CSS, I designed two boxes to display the original text and its summary, using different colors for visual appeal and justified text alignment.
+
+The application was built using the Flask framework.
